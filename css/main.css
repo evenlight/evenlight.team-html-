@@ -117,11 +117,15 @@ o.pad-left
 		text-align: center;
 	}
 }
- 
-}
 .imgblok
 {
     width: 300px;
     height:300px;
     
+}
+.social-text
+{
+	font-size: 25px; 
+	color: white; 
+	margin-right: 10px;
 }
